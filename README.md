@@ -32,11 +32,11 @@ samples, guidance on mobile development, and a full API reference.
    ![image](https://user-images.githubusercontent.com/60535124/133894602-99772ddf-abf7-4bbf-864e-72c849f773b7.png)
     
     
-    ### Windows (Different startups are generated for every execution)
+    Windows (Different startups are generated for every execution)
     
    ![image](https://user-images.githubusercontent.com/60535124/133894620-0c017a00-ad17-4ff3-b8f3-a85a93e92fee.png)
     
-    ### Android Emulator
+    Android Emulator
     
    ![image](https://user-images.githubusercontent.com/60535124/133894647-c48c3e8b-b2c1-4e45-82d6-099f470b9b36.png)
 
