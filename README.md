@@ -1,6 +1,6 @@
 # Startup_name_generator
 
-A new Flutter project.
+A Flutter App to generate random Startup names for Companies everytime it is exectued
 
 ## Getting Started
 
