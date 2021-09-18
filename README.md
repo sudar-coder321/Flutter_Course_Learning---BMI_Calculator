@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Outputs
 
-    ### Chrome/Edge
+    Chrome/Edge
 
     (i) Successfully adding Startups to favourites list - 
 
